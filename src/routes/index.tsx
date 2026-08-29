@@ -279,7 +279,7 @@ function Home() {
         <div className="container process-grid">
           <div className="process-visual hover-lift">
             <div className="image-wrapper shadow-wrapper">
-              <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop" alt="Campaign Dashboard" className="premium-img" />
+              <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=1000&auto=format&fit=crop" alt="Campaign Dashboard" className="premium-img" />
             </div>
           </div>
           <div className="process-content">
